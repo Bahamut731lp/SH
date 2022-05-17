@@ -7,8 +7,7 @@ Tento repozitář obsahuje tak nějak všechny skripty, které jsem kdy napsal b
 |Cvičení|Skóre|Hodnocení|
 |:--:       | :--:| :--:    |
 |Cvičení 1  | 100 | vyborne |
-|Cvičení 2  | 100 | pamatujes si to dobre    
-
+|Cvičení 2  | 100 | pamatujes si to dobre |
 | Cvičení 3  | 100 | vyborne |
 | Cvičení 4  | 100 | Prvni! Ale neboj, on se najde nekdo, kdo to iniciativne premaze ];-) |
 | Cvičení 5  | 100 | Ano ano, ktere adresare koukej jsou slozitejsi nez jine. kazdopadne vyborne pouziti getent, vyborne pouziti find. |
