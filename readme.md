@@ -5,7 +5,7 @@ Tento repozitář obsahuje tak nějak všechny skripty, které jsem kdy napsal b
 ## Hodnocení skriptů ze cvičení
 
 |Cvičení|Skóre|Hodnocení|
-|:--:       | :--:| :--:    |
+|:--:|:--:|:--|
 |Cvičení 1  | 100 | vyborne |
 |Cvičení 2  | 100 | pamatujes si to dobre |
 | Cvičení 3  | 100 | vyborne |
